@@ -2,6 +2,9 @@
 ### Algorithm Authors: Ralf Engbert, Petra Sinn, Konstantin Mergenthaler, Hans Trukenbrod; Affiliation: University of Potsdam, Germany
 ### Python translation by Lisa Schwetlick and Paul Schmitthäuser; University of Potsdam
 
+## Please cite as
+doi: 10.5281/zenodo.14794452
+
 ## Description
 The Microsaccade Toolbox is a collection of functions to analyze fixational eye movements based on data recorded via high-resolution (>200 Hz) eye-tracking. The topics implemented in this python implementation are the same as in the original R implementation that can be found [here](http://read.psych.uni-potsdam.de/index.php?option=com_content&view=article&id=140:engbert-et-al-2015-microsaccade-toolbox-for-r&catid=26:publications&Itemid=34): 
 - detection of microsaccades
